@@ -1,1 +1,1 @@
-# Indian-Lok-Sabha-Elections
+Data Analysis on Recent Indian Lok Sabha Elections This project aims to analyze the results of the recent 2024 Indian Lok Sabha elections. The analysis focuses on various aspects such as the distribution of winning candidates, age demographics, party performance, and the impact of key political figures. This analysis provides valuable insights into the changing political landscape of India and can help political analysts, researchers, and the general public understand the factors that influenced the election results.
